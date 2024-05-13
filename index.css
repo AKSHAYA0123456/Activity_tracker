@@ -1,0 +1,6 @@
+.navbar a {
+  transition: background 250ms ease;
+}
+.navbar a:hover {
+  background: #00b89c;
+}
